@@ -67,7 +67,7 @@ const menu = () => {
 
     sideDishDiv1.append(sideDishItem1, sideDishDesc1, sideDishPrice1, sideDishPhoto1);
     sideDishDiv2.append(sideDishItem2, sideDishDesc2, sideDishPrice2, sideDishPhoto2);
-    content.append(sideDishDiv1, sideDishDiv2);
+    content.append(sides, sideDishDiv1, sideDishDiv2);
 
     // Main Dishes
 
